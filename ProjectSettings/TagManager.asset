@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - btnVolar
+  - ave
+  - generador
+  - fondo
+  - BajoNivel
+  - AltoNivel
+  - LimiteMortal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - fondo
+  - detector
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 3339009145
+    locked: 0
+  - name: Personaje
+    uniqueID: 3587798049
+    locked: 0
+  - name: Ave
+    uniqueID: 4070953345
+    locked: 0
+  - name: UI
+    uniqueID: 799618017
+    locked: 0
